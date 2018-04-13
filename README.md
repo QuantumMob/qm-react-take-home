@@ -1,15 +1,17 @@
-# Quantum Mob React/ES6 test
+# Quantum Mob React/ES6 Test
 
 ## Instructions
 Please do not spend more than 2-3 hours on this task.
 
-Submit the results as a separate GitHub repository. We want to see your
+Submit the results as a **separate** GitHub repository. We want to see your
 commits too.
 
 Run the app, go to `http://localhost:3000/` for further instructions.
 
 
 ---
+
+## Boilerplate Documentation (create-react-app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
